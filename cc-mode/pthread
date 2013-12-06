@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: pthread
+# key: pthread
+# --
+#include <pthread.h>
